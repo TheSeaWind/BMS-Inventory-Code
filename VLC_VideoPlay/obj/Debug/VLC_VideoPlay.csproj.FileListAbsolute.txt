@@ -1,0 +1,37 @@
+D:\TPA\TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.csprojResolveAssemblyReference.cache
+D:\TPA\TPA-MMS\Out\VLC_VideoPlay.dll
+D:\TPA\TPA-MMS\Out\VLC_VideoPlay.pdb
+D:\TPA\TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.dll
+D:\TPA\TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.pdb
+D:\TEST2016.PC\TPA-MMS\Out\VLC_VideoPlay.dll
+D:\TEST2016.PC\TPA-MMS\Out\VLC_VideoPlay.pdb
+D:\TEST2016.PC\TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.csprojResolveAssemblyReference.cache
+D:\TEST2016.PC\TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.dll
+D:\TEST2016.PC\TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.pdb
+D:\1.Bãi đỗ xe máy\2.Windows\MaNguon\ini-TPA-MMS\Out\VLC_VideoPlay.dll
+D:\1.Bãi đỗ xe máy\2.Windows\MaNguon\ini-TPA-MMS\Out\VLC_VideoPlay.pdb
+D:\1.Bãi đỗ xe máy\2.Windows\MaNguon\ini-TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.csprojResolveAssemblyReference.cache
+D:\1.Bãi đỗ xe máy\2.Windows\MaNguon\ini-TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.dll
+D:\1.Bãi đỗ xe máy\2.Windows\MaNguon\ini-TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.pdb
+D:\4.Bãi đỗ ô tô\2.Quản lý tại bãi\MaNguon\ini-TPA-MMS\Out\VLC_VideoPlay.dll
+D:\4.Bãi đỗ ô tô\2.Quản lý tại bãi\MaNguon\ini-TPA-MMS\Out\VLC_VideoPlay.pdb
+D:\4.Bãi đỗ ô tô\2.Quản lý tại bãi\MaNguon\ini-TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.csprojResolveAssemblyReference.cache
+D:\4.Bãi đỗ ô tô\2.Quản lý tại bãi\MaNguon\ini-TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.dll
+D:\4.Bãi đỗ ô tô\2.Quản lý tại bãi\MaNguon\ini-TPA-MMS\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.pdb
+D:\PROJECT\CameraWorking\CameraWorking\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.csprojResolveAssemblyReference.cache
+D:\PROJECT\CameraWorking\CameraWorking\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.dll
+D:\PROJECT\CameraWorking\CameraWorking\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.pdb
+D:\PROJECT\CameraWorking\CameraWorking\Out\VLC_VideoPlay.dll
+D:\PROJECT\CameraWorking\CameraWorking\Out\VLC_VideoPlay.pdb
+D:\PROJECT\CameraWorking\CameraWorking\CameraWorking\bin\Debug\VLC_VideoPlay.dll
+D:\PROJECT\CameraWorking\CameraWorking\CameraWorking\bin\Debug\VLC_VideoPlay.pdb
+D:\TanPhat\Car Parking\CameraWorking\CameraWorking\bin\Debug\VLC_VideoPlay.dll
+D:\TanPhat\Car Parking\CameraWorking\CameraWorking\bin\Debug\VLC_VideoPlay.pdb
+D:\TanPhat\Car Parking\CameraWorking\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.csprojResolveAssemblyReference.cache
+D:\TanPhat\Car Parking\CameraWorking\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.dll
+D:\TanPhat\Car Parking\CameraWorking\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.pdb
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\CameraWorking\bin\Debug\VLC_VideoPlay.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\CameraWorking\bin\Debug\VLC_VideoPlay.pdb
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.csprojResolveAssemblyReference.cache
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.dll
+D:\TanPhat\Car Parking\Init Project\BMS Inventory Code\VLC_VideoPlay\obj\Debug\VLC_VideoPlay.pdb
